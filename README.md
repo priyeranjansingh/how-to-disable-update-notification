@@ -1,10 +1,10 @@
 # how-to-disable-update-notification
 #how to disable update notification for user.
 How to install this plugin
-There is two method to upload this plugin
-First is manually upload plugin
+There is two method to upload this plugin to your wordpress site
 
-1.Download zip folder
+First is manually upload plugin
+1. Download zip folder
 2. Extract zip folder and then place this folder wp-content/pluging/ directory
 3. Login with admin username and password
 4. Go to plugin page
